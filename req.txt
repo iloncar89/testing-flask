@@ -1,0 +1,7 @@
+flask
+dependency_injection
+dependency_injector
+sqlalchemy
+psycopg2-binary
+pydantic
+PyYAML

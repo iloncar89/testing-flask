@@ -1,0 +1,2 @@
+HELLO = "hello"
+ERROR = "error"
